@@ -1,0 +1,32 @@
+[
+  {
+    "productName": "J7 Prime 64GB",
+    "productCode": "SM-M215GLBA",
+    "price": 50600,
+    "quantity": 3
+  },
+  {
+    "productName": "M23 Prime 64GB",
+    "productCode": "SM-M215GLBC",
+    "price": 60600,
+    "quantity": 4
+  },
+  {
+    "productName": "S7 Prime 32GB",
+    "productCode": "SM-M215GLBE",
+    "price": 32600,
+    "quantity": 5
+  },
+  {
+    "productName": "A8 Prime 32GB",
+    "productCode": "SM-M215GLBF",
+    "price": 20600,
+    "quantity": 6
+  },
+  {
+    "productName": "A7 Prime 32GB",
+    "productCode": "SM-M215GLBG",
+    "price": 25600,
+    "quantity": 7
+  }
+]

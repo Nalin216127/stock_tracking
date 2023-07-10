@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248415502218",
+    "project_id": "smarttask-75a5b",
+    "storage_bucket": "smarttask-75a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248415502218:android:ead8622aa3e41e520f9273",
+        "android_client_info": {
+          "package_name": "com.example.task_02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248415502218-rgjnh37v3rk5hsqi2n21ucuklom0rm0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl-LX6AAkiTEBla7aQ4b1ngPVl7wYyxYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248415502218-rgjnh37v3rk5hsqi2n21ucuklom0rm0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

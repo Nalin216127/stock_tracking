@@ -1,0 +1,58 @@
+[
+    {
+      "productName": "J7 Prime 32GB",
+      "productCode": "SM-M215GLBD",
+      "price": 42600
+    },
+    {
+      "productName": "M21 Prime 32GB",
+      "productCode": "SM-M215GLBY",
+      "price": 41600
+
+    },
+    {
+      "productName": "J5 Prime 32GB",
+      "productCode": "SM-M215GLBQ",
+      "price": 40600
+    },
+    {
+      "productName": "J7 Prime 64GB",
+      "productCode": "SM-M215GLBA",
+      "price": 50600
+    },
+    {
+      "productName": "M23 Prime 64GB",
+      "productCode": "SM-M215GLBC",
+      "price": 60600
+    },
+    {
+      "productName": "S7 Prime 32GB",
+      "productCode": "SM-M215GLBE",
+      "price": 32600
+    },
+    {
+      "productName": "A8 Prime 32GB",
+      "productCode": "SM-M215GLBF",
+      "price": 20600
+    },
+    {
+      "productName": "A7 Prime 32GB",
+      "productCode": "SM-M215GLBG",
+      "price": 25600
+    },
+    {
+      "productName": "S23 Prime 64GB",
+      "productCode": "SM-M215GLBH",
+      "price": 80600
+    },
+    {
+      "productName": "S24 Prime 64GB",
+      "productCode": "SM-M215GLBI",
+      "price": 90600
+    },
+    {
+    "productName": "S22 Prime 64GB",
+    "productCode": "KM-A215DLKI",
+    "price": 75600
+    }
+]
